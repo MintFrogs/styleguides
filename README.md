@@ -1,0 +1,2 @@
+# styleguides
+MintFrogs Coding Guidelines
